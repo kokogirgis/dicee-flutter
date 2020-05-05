@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![App Brewery Banner](https://miro.medium.com/max/3000/1*PblQquEXxZ6U1BmBNlEprA.jpeg)
 
 
 # Dicee 🎲
